@@ -14,8 +14,8 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://github.com/mrmvsn/TG-URL-Uploader",
+  "website": "https://github.com/mrmvsn/TG-URL-Uploader",
   "repository": "https://github.com/mrmvsn/TG-URL-Uploader",
   "env": {
     "WEBHOOK": {
